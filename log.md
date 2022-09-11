@@ -1,30 +1,22 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code Python - Log - Nat
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 10, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I installed Python in my laptop, and I get 3 books about Python
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Its was just.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: September. 11, 2022
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: I start read book "Python Crash Course", 2nd Edition ans start courses "Python for Everybody" in [freeCodeCamp](http://freecodecamp.org)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: 
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: 
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
