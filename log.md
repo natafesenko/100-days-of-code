@@ -10,13 +10,9 @@
 
 **Today's Progress**: I start read book "Python Crash Course", 2nd Edition ans start courses "Python for Everybody" in [freeCodeCamp](http://freecodecamp.org)
 
-**Thoughts**: 
 
-**Link(s) to work**: 
+### Day 2: September. 12, 2022
 
-### Day 2: 
+**Today's Progress**: I get 3 points in a freeCodeCamp)
+**Thoughts** Its not difficult now, I keep learned)
 
-**Today's Progress**: 
-**Thoughts** 
-
-**Link(s) to work**
